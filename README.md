@@ -52,7 +52,53 @@ Conteúdo Exclusivo: Atualizações regulares, DLCs (conteúdos adicionais) e ev
 Feedback e Melhoria Contínua: Enquetes, beta testing e atualizações baseadas no feedback dos jogadores.
 </p>
 
-<h2>wq </h2>
+<h3>FONTE DE RECEITA</h3>
+
+<p>Venda do Jogo: Receita direta da venda do jogo nas diferentes plataformas.
+Microtransações: Compra de itens cosméticos, melhorias e conteúdos adicionais.
+DLCs e Expansões: Pacotes de expansão e novos conteúdos.
+Assinaturas: Modelos de assinatura para acesso a conteúdos exclusivos e benefícios.
+Publicidade e Parcerias: Parcerias com marcas e publicidade dentro do jogo.</p>
+
+<h3>RECURSOS PRINCIPAIS</h3>
+
+<p>Desenvolvedores de Jogo: Equipe de desenvolvedores, designers e engenheiros de software.
+Licenças e Direitos: Licenças da Fórmula-E e das equipes participantes.
+Infraestrutura Tecnológica: Servidores, plataformas de distribuição e tecnologia de suporte.
+Parcerias: Com equipes de Fórmula-E, fabricantes de carros e empresas de tecnologia.
+Marketing e Vendas: Equipe de marketing e vendas para promover o jogo.</p>
+
+<h3>ATIVIDADE PRINCIPAIS</h3>
+
+<p>Desenvolvimento do Jogo: Design, programação, teste e lançamento do jogo.
+Marketing e Promoção: Campanhas de marketing e promoção para atrair jogadores.
+Gestão de Comunidade: Interação com a comunidade de jogadores e suporte.
+Atualizações e Manutenção: Atualização contínua do jogo e manutenção dos servidores.
+Parcerias e Licenciamento: Gestão de parcerias e manutenção de licenças.</p>
+
+<h3>PARCERIAS PRINCIPAIS</h3>
+
+<p>Fórmula-E: Parceria oficial para uso de marcas e conteúdo.
+Equipes e Pilotos: Colaboração com equipes e pilotos reais para autenticidade.
+Plataformas de Distribuição: Steam, PlayStation Store, Xbox Marketplace, etc.
+Fabricantes de Tecnologia: Empresas de hardware e software para otimização do jogo.
+Agências de Marketing: Para promover o jogo em diferentes mercados.</p>
+
+<h3>ESTRUTURA DE CUSTOS</h3>
+
+<p>Desenvolvimento de Jogo: Salários da equipe, licenças de software, custos de desenvolvimento.
+Marketing e Promoção: Gastos com campanhas de marketing, publicidade e eventos.
+Infraestrutura Tecnológica: Custos de servidores, plataformas de distribuição e manutenção.
+Suporte ao Cliente: Custos associados ao suporte e gestão de comunidade.
+Royalties e Licenciamento: Pagamentos de licenças e direitos de uso de marcas.</p>
+
+<h2></h2>
 <h3></h3>
 
 <p></p>
+
+<h2></h2>
+<h3></h3>
+
+<p></p>
+
